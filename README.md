@@ -4,3 +4,5 @@ Repository providing examples of pose estimation frameworks, supplementing the m
 Containing the google colab notebook 'PoseEstimationReport.ipynb' which is an informal review of some of the Pose Estimation framework as of April 2020. The notebook includes examples, produced by some of the frameworks - using google colab installations of the networks from https://github.com/tugstugi/dl-colab-notebooks .
 
 The notebook OpenPoseDatasetProcessing.ipynb can be run in Google colab but the directory structure needs to be accustomed to users Google Drive directory structure.
+
+The folder ExampleVideos contains 10 videos of the 10 different international style dances, with overlaid skeletons as returned by OpenPose BODY_25 format
