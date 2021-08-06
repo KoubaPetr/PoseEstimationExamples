@@ -7,4 +7,4 @@ The notebook OpenPoseDatasetProcessing.ipynb can be run in Google colab but the 
 
 The folder ExampleVideos contains 10 videos of the 10 different international style dances, with overlaid skeletons as returned by OpenPose BODY_25 format
 
-The video 'chachacha_tracking_normalization.avi' illustrates results of our tracking and normalization procedure - same colored skeletons in consecutive frames mean the tracking matches these two skeletons as belonging to the same person. 
+The video 'chachacha_tracking_normalization.avi' illustrates results of our tracking and normalization procedure - same colored skeletons in consecutive frames mean the tracking matches these two skeletons as belonging to the same person. Grey coloured skeleton means low confidence in tracking and such tracklets are ignored.
