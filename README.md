@@ -6,3 +6,5 @@ Containing the google colab notebook 'PoseEstimationReport.ipynb' which is an in
 The notebook OpenPoseDatasetProcessing.ipynb can be run in Google colab but the directory structure needs to be accustomed to users Google Drive directory structure.
 
 The folder ExampleVideos contains 10 videos of the 10 different international style dances, with overlaid skeletons as returned by OpenPose BODY_25 format
+
+The video 'chachacha_tracking_normalization.avi' illustrates results of our tracking and normalization procedure - same colored skeletons in consecutive frames mean the tracking matches these two skeletons as belonging to the same person. 
